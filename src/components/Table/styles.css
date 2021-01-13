@@ -1,0 +1,18 @@
+.wrapper {
+  height: 100%;
+}
+.container {
+  padding: 2rem 0rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+h4 {
+  margin: 2rem 0rem 1rem;
+}
+
+.btn {
+  margin: 0 10px;
+}
